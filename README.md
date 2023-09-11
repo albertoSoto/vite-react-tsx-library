@@ -1,6 +1,7 @@
-# lince-player
+# vite-react-tsx-library
 
-Lince video player
+React library boilerplate with Vite to publish on npm
+Added Ts support
 
 ## To run in development
 
